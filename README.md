@@ -13,7 +13,6 @@ Designed a series of dashboards and a data story to help the Road Safety Team—
 - Forecasting trends and crash risks
 - Prioritizing emergency response using severity modeling
 - Stakeholder-friendly visuals with filters, labels, and KPIs
-- Feedback-driven improvements from Ministry of Transport (Solution I → Solution II)
 
 ## 🎯 Impact
 - Enables data-driven safety planning
